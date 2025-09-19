@@ -1,0 +1,41 @@
+Heart Disease Project
+DataSet = Dataset: UCI Machine Learning Repository (Heart Disease Dataset)
+
+Models Evaluated:
+1. Logistic Regression
+2. Decision Tree
+3. Random Forest
+4. Support Vector Machine (SVM)
+
+--------------------------------------------------
+--- Logistic Regression Results ---
+Accuracy: 0.8146
+Precision: 0.7778
+Recall: 0.8835
+F1-Score: 0.8273
+--------------------------------------------------
+
+--- Decision Tree Results ---
+Accuracy: 0.9854
+Precision: 1.0000
+Recall: 0.9709
+F1-Score: 0.9852
+--------------------------------------------------
+
+--- Random Forest Results ---
+Accuracy: 0.9854
+Precision: 1.0000
+Recall: 0.9709
+F1-Score: 0.9852
+--------------------------------------------------
+
+--- SVM Results ---
+Accuracy: 0.8780
+Precision: 0.8362
+Recall: 0.9417
+F1-Score: 0.8858
+----------------------------------------------------------------------------
+Confusion Matrix (Random Forest):
+                 Predicted Negative   Predicted Positive
+Actual Negative        30                 3
+Actual Positive        1                 27

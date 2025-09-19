@@ -1,0 +1,11 @@
+# Folders to ignore
+data/
+models/
+results/
+venv/
+env/
+
+# Files to ignore
+.DS_Store
+*.log
+*.sqlite
